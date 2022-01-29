@@ -14,21 +14,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 <div>
 
 
-
 ## 🛠 Ferramentas:
 
 <div>
     <img align="center" alt="Gustavo-GitIcon" height="40" width="50"                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Gustavo-GitHubIcon" height="40" width="50"                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img src="https://toppng.com/uploads/preview/intellij-idea-logo-11609365307w3w15x9ipq.png" alt="intellij idea logo PNG image with transparent background | TOPpng" style="zoom:5%;" />
+    <img  <img align="center" alt="Gustavo-IntellijIcon" height="40" width="40" 
+         src="https://o.remove.bg/downloads/5171bc70-db6e-440c-aabd-bf3e5a2dbdbb/intellij-idea-logo-11609365307w3w15x9ipq-removebg-preview.png" />
     <img align="center" alt="Gustavo-VSCodeIcon" height="40" width="50"   
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" alt="Gustavo-GradleIcon" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-    <img src="C:\Users\Gustavo\Downloads\maven-removebg-preview.png" alt="maven-removebg-preview" style="zoom:25%;" />
-
+    <img <img align="center" alt="Gustavo-MavenIcon" height="40" width="40" 
+         src="https://o.remove.bg/downloads/fd59fce4-04ec-44c8-89bd-8d3e8afb3412/maven-removebg-preview.png"/>
 <div>
-
+  
 ## 📜 Artigos escritos por mim:
 
 [5 dicas de como organizar os estudos](https://web.dio.me/articles/5-dicas-de-como-organizar-os-estudos?back=%2Farticles&page=1&order=oldest)
