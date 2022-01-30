@@ -20,13 +20,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
     <img align="center" alt="Gustavo-GitIcon" height="40" width="50"                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Gustavo-GitHubIcon" height="40" width="50"                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img  <img align="center" alt="Gustavo-IntellijIcon" height="40" width="40" 
-         src="https://o.remove.bg/downloads/5171bc70-db6e-440c-aabd-bf3e5a2dbdbb/intellij-idea-logo-11609365307w3w15x9ipq-removebg-preview.png" />
+         src="https://user-images.githubusercontent.com/84250256/151687923-94e8655a-6882-4c12-b2e8-9c9265499443.png" />
     <img align="center" alt="Gustavo-VSCodeIcon" height="40" width="50"   
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" alt="Gustavo-GradleIcon" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
     <img <img align="center" alt="Gustavo-MavenIcon" height="40" width="40" 
-         src="https://o.remove.bg/downloads/fd59fce4-04ec-44c8-89bd-8d3e8afb3412/maven-removebg-preview.png"/>
+         src="https://user-images.githubusercontent.com/84250256/151687943-ce1b046e-0e53-4f02-8b89-cf815d86729c.png" />
 <div>
   
 ## 📜 Artigos escritos por mim:
